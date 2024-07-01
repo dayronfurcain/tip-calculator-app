@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Tip Calculator App](https://github.com/dayronfurcain/tip-calculator-app)
+- Live Site URL: [Tip Calculator App](https://dreamy-haupia-25f27f.netlify.app)
 
 ## My process
 
